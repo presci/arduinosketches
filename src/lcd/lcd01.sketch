@@ -1,5 +1,3 @@
-#include <TimeLib.h>
-#include <Time.h>
 
 
 #include <LiquidCrystal_I2C.h>
@@ -64,72 +62,4 @@ void loop()   /*----( LOOP: RUNS CONSTANTLY )----*/
   }
 
 }/* --(end main loop )-- */
-
-
-
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
 
